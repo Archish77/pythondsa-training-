@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Archish77/pythondsa-training-/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Archish77/pythondsa-training-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+## String
+|  |
+| ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Archish77/pythondsa-training-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+## Counting
+|  |
+| ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Archish77/pythondsa-training-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
