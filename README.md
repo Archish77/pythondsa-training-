@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Archish77/pythondsa-training-/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Archish77/pythondsa-training-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Archish77/pythondsa-training-/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Archish77/pythondsa-training-/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Archish77/pythondsa-training-/tree/master/0238-product-of-array-except-self) |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Archish77/pythondsa-training-/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Archish77/pythondsa-training-/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Archish77/pythondsa-training-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
