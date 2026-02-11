@@ -15,15 +15,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Archish77/pythondsa-training-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Archish77/pythondsa-training-/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Archish77/pythondsa-training-/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Archish77/pythondsa-training-/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Archish77/pythondsa-training-/tree/master/0242-valid-anagram) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Archish77/pythondsa-training-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Archish77/pythondsa-training-/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Archish77/pythondsa-training-/tree/master/0242-valid-anagram) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Archish77/pythondsa-training-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
 |  |
