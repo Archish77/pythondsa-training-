@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Archish77/pythondsa-training-/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Archish77/pythondsa-training-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Archish77/pythondsa-training-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Archish77/pythondsa-training-/tree/master/0075-sort-colors) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Archish77/pythondsa-training-/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Archish77/pythondsa-training-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Archish77/pythondsa-training-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Archish77/pythondsa-training-/tree/master/0141-linked-list-cycle) |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Archish77/pythondsa-training-/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Archish77/pythondsa-training-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
