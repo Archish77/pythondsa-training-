@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Archish77/pythondsa-training-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Archish77/pythondsa-training-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Archish77/pythondsa-training-/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Archish77/pythondsa-training-/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Archish77/pythondsa-training-/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Archish77/pythondsa-training-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Archish77/pythondsa-training-/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Archish77/pythondsa-training-/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Archish77/pythondsa-training-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/0876-middle-of-the-linked-list) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Archish77/pythondsa-training-/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/Archish77/pythondsa-training-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Archish77/pythondsa-training-/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Archish77/pythondsa-training-/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
