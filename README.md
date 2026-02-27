@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Archish77/pythondsa-training-/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Archish77/pythondsa-training-/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Archish77/pythondsa-training-/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/Archish77/pythondsa-training-/tree/master/0496-next-greater-element-i) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Archish77/pythondsa-training-/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Archish77/pythondsa-training-/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/Archish77/pythondsa-training-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Archish77/pythondsa-training-/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Archish77/pythondsa-training-/tree/master/0496-next-greater-element-i) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Archish77/pythondsa-training-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Archish77/pythondsa-training-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## String
@@ -91,4 +93,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Archish77/pythondsa-training-/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/Archish77/pythondsa-training-/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Archish77/pythondsa-training-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
