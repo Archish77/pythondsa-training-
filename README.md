@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Archish77/pythondsa-training-/tree/master/0496-next-greater-element-i) |
 | [0641-design-circular-deque](https://github.com/Archish77/pythondsa-training-/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Archish77/pythondsa-training-/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Archish77/pythondsa-training-/tree/master/1004-max-consecutive-ones-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Archish77/pythondsa-training-/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Archish77/pythondsa-training-/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Archish77/pythondsa-training-/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,4 +124,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Archish77/pythondsa-training-/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Archish77/pythondsa-training-/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Archish77/pythondsa-training-/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
