@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Archish77/pythondsa-training-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Archish77/pythondsa-training-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Archish77/pythondsa-training-/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/Archish77/pythondsa-training-/tree/master/0394-decode-string) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Archish77/pythondsa-training-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Archish77/pythondsa-training-/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/Archish77/pythondsa-training-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Archish77/pythondsa-training-/tree/master/0394-decode-string) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Archish77/pythondsa-training-/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/Archish77/pythondsa-training-/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Archish77/pythondsa-training-/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
