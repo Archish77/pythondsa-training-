@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Archish77/pythondsa-training-/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Archish77/pythondsa-training-/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Archish77/pythondsa-training-/tree/master/0496-next-greater-element-i) |
+| [0641-design-circular-deque](https://github.com/Archish77/pythondsa-training-/tree/master/0641-design-circular-deque) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Archish77/pythondsa-training-/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Archish77/pythondsa-training-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/0237-delete-node-in-a-linked-list) |
+| [0641-design-circular-deque](https://github.com/Archish77/pythondsa-training-/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -101,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0641-design-circular-deque](https://github.com/Archish77/pythondsa-training-/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Archish77/pythondsa-training-/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0641-design-circular-deque](https://github.com/Archish77/pythondsa-training-/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Archish77/pythondsa-training-/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
