@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Archish77/pythondsa-training-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Archish77/pythondsa-training-/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Archish77/pythondsa-training-/tree/master/0394-decode-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Archish77/pythondsa-training-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Archish77/pythondsa-training-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Archish77/pythondsa-training-/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Archish77/pythondsa-training-/tree/master/1004-max-consecutive-ones-iii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Archish77/pythondsa-training-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
 | ------- |
