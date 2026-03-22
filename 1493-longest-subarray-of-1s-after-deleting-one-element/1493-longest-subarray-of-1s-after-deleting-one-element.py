@@ -13,6 +13,6 @@ class Solution:
                     zeros -= 1
                 left += 1
 
-            max_len = max(max_len, right - left + 1 - 1) 
+            max_len = max(max_len, right - left ) 
 
         return max_len
