@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Archish77/pythondsa-training-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Archish77/pythondsa-training-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Archish77/pythondsa-training-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2390-removing-stars-from-a-string](https://github.com/Archish77/pythondsa-training-/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Archish77/pythondsa-training-/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Archish77/pythondsa-training-/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Archish77/pythondsa-training-/tree/master/0496-next-greater-element-i) |
+| [2390-removing-stars-from-a-string](https://github.com/Archish77/pythondsa-training-/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -160,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/Archish77/pythondsa-training-/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/Archish77/pythondsa-training-/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
