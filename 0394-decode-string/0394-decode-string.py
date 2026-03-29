@@ -1,25 +1,25 @@
 class Solution:
-    def decodeString(self, s):
+    def decodeString(self, s: str) -> str:
+        num_stack = []    
+        str_stack = []   
+        cur_str = ""      
+        cur_num = 0       
 
-        stack = []
-        curr_str = ""
-        curr_num = 0
+        for c in s:
+            if c.isdigit():
+                cur_num = cur_num * 10 + int(c)  
 
-        for ch in s:
+            elif c == '[':
+                num_stack.append(cur_num)   
+                str_stack.append(cur_str)   
+                cur_num = 0                
+                cur_str = ""               
 
-            if ch.isdigit():
-                curr_num = curr_num * 10 + int(ch)
-
-            elif ch == '[':
-                stack.append((curr_str, curr_num))
-                curr_str = ""
-                curr_num = 0
-
-            elif ch == ']':
-                prev_str, num = stack.pop()
-                curr_str = prev_str + num * curr_str
+            elif c == ']':
+                k = num_stack.pop()         
+                prev = str_stack.pop()      
+                cur_str = prev + cur_str * k  
 
             else:
-                curr_str += ch
-
-        return curr_str
+                cur_str += c              
+        return cur_str
