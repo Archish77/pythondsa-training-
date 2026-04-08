@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Archish77/pythondsa-training-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Archish77/pythondsa-training-/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Archish77/pythondsa-training-/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/Archish77/pythondsa-training-/tree/master/0649-dota2-senate) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Archish77/pythondsa-training-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Archish77/pythondsa-training-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Archish77/pythondsa-training-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Archish77/pythondsa-training-/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/Archish77/pythondsa-training-/tree/master/0649-dota2-senate) |
 ## Stack
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/Archish77/pythondsa-training-/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/Archish77/pythondsa-training-/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Archish77/pythondsa-training-/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
