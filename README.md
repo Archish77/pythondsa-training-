@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Archish77/pythondsa-training-/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Archish77/pythondsa-training-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0641-design-circular-deque](https://github.com/Archish77/pythondsa-training-/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
