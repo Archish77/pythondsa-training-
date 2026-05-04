@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Archish77/pythondsa-training-/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Archish77/pythondsa-training-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Archish77/pythondsa-training-/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Archish77/pythondsa-training-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Archish77/pythondsa-training-/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Archish77/pythondsa-training-/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Archish77/pythondsa-training-/tree/master/0229-majority-element-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Archish77/pythondsa-training-/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Archish77/pythondsa-training-/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Archish77/pythondsa-training-/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/Archish77/pythondsa-training-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Archish77/pythondsa-training-/tree/master/0242-valid-anagram) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Archish77/pythondsa-training-/tree/master/0073-set-matrix-zeroes) |
 | [2352-equal-row-and-column-pairs](https://github.com/Archish77/pythondsa-training-/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
