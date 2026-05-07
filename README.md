@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Archish77/pythondsa-training-/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Archish77/pythondsa-training-/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Archish77/pythondsa-training-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Archish77/pythondsa-training-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Archish77/pythondsa-training-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Archish77/pythondsa-training-/tree/master/0073-set-matrix-zeroes) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Archish77/pythondsa-training-/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Archish77/pythondsa-training-/tree/master/0048-rotate-image) |
 ## Greedy
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Archish77/pythondsa-training-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Archish77/pythondsa-training-/tree/master/0073-set-matrix-zeroes) |
 | [2352-equal-row-and-column-pairs](https://github.com/Archish77/pythondsa-training-/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
