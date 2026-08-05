@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Archish77/pythondsa-training-/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Archish77/pythondsa-training-/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Archish77/pythondsa-training-/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Archish77/pythondsa-training-/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Archish77/pythondsa-training-/tree/master/0496-next-greater-element-i) |
 | [0641-design-circular-deque](https://github.com/Archish77/pythondsa-training-/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Archish77/pythondsa-training-/tree/master/0643-maximum-average-subarray-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Archish77/pythondsa-training-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Archish77/pythondsa-training-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Archish77/pythondsa-training-/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/Archish77/pythondsa-training-/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Archish77/pythondsa-training-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Archish77/pythondsa-training-/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Archish77/pythondsa-training-/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Archish77/pythondsa-training-/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
@@ -186,4 +189,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Archish77/pythondsa-training-/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/Archish77/pythondsa-training-/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Archish77/pythondsa-training-/tree/master/2390-removing-stars-from-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Archish77/pythondsa-training-/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Archish77/pythondsa-training-/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Archish77/pythondsa-training-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
