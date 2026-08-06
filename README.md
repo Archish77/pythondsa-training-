@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Archish77/pythondsa-training-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Archish77/pythondsa-training-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Archish77/pythondsa-training-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Archish77/pythondsa-training-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Archish77/pythondsa-training-/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Archish77/pythondsa-training-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Archish77/pythondsa-training-/tree/master/0075-sort-colors) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Archish77/pythondsa-training-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Archish77/pythondsa-training-/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Archish77/pythondsa-training-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Archish77/pythondsa-training-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Archish77/pythondsa-training-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Archish77/pythondsa-training-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Archish77/pythondsa-training-/tree/master/0055-jump-game) |
 | [0649-dota2-senate](https://github.com/Archish77/pythondsa-training-/tree/master/0649-dota2-senate) |
 ## Stack
 |  |
