@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Archish77/pythondsa-training-/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Archish77/pythondsa-training-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Archish77/pythondsa-training-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Archish77/pythondsa-training-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Archish77/pythondsa-training-/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Archish77/pythondsa-training-/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Archish77/pythondsa-training-/tree/master/0238-product-of-array-except-self) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Archish77/pythondsa-training-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Archish77/pythondsa-training-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Archish77/pythondsa-training-/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/Archish77/pythondsa-training-/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Archish77/pythondsa-training-/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Archish77/pythondsa-training-/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Archish77/pythondsa-training-/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Archish77/pythondsa-training-/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Archish77/pythondsa-training-/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Archish77/pythondsa-training-/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
