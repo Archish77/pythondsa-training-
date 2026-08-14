@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Archish77/pythondsa-training-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Archish77/pythondsa-training-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Archish77/pythondsa-training-/tree/master/1732-find-the-highest-altitude) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Archish77/pythondsa-training-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Archish77/pythondsa-training-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Archish77/pythondsa-training-/tree/master/2352-equal-row-and-column-pairs) |
 ## Two Pointers
@@ -189,11 +190,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Archish77/pythondsa-training-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Archish77/pythondsa-training-/tree/master/0073-set-matrix-zeroes) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Archish77/pythondsa-training-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Archish77/pythondsa-training-/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Archish77/pythondsa-training-/tree/master/0735-asteroid-collision) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Archish77/pythondsa-training-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Archish77/pythondsa-training-/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Archish77/pythondsa-training-/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
